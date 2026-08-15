@@ -4,15 +4,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:79C0FF&height=180&section=header" width="100%" alt="wave header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I%27m+Livnes+%F0%9F%92%96;Frontend+Developer;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Kotlin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I%27m+Livnes+%F0%9F%92%96;Full-Stack+Developer;React+%C2%B7+Angular+%C2%B7+TypeScript+%C2%B7+Python)](https://git.io/typing-svg)
 
-<img src="assets/hero.svg" width="100%" alt="Livnes Ganesan — Frontend Developer" />
+<img src="assets/hero.svg" width="100%" alt="Livnes Ganesan — Full-Stack Developer" />
 
 <img src="assets/spacer.svg" width="100%" height="16" alt="" />
 
-- 🌱 Currently learning **Docker** and expanding my DevOps knowledge<br/>
+- 🌱 Currently exploring **AI-assisted apps, Angular signals & zoneless, local-first tooling, and speech interfaces**<br/>
 - 💼 Previously interned as a Frontend Developer at **Biztory Cloud** (May–Jul 2025)<br/>
-- 🎓 Diploma in IT at **HELP University** · CGPA 3.56
+- 🎓 B.Sc. Computer Science at **HELP University** (2026–Present) · Diploma in IT, CGPA 3.56
 
 <img src="assets/divider.svg" alt="section divider" />
 
@@ -39,10 +39,10 @@
 -->
 | Project | Stack |
 |:---|:---|
-| 🤖 **[Vesper](https://github.com/CrudusLiv/Vesper)**<br>Claude Code agent · Discord bot + scheduler | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff) ![Discord.py](https://img.shields.io/badge/Discord.py-0d1117?style=flat-square&logo=discord&logoColor=58a6ff) ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logoColor=58a6ff) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff) |
+| 🤖 **[Vesper](https://github.com/CrudusLiv/Vesper)**<br>Local-first AI desktop assistant · voice control + calendar | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff) ![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-0d1117?style=flat-square&logoColor=58a6ff) ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=58a6ff) |
 | 🧘 **[MindSync](https://github.com/CrudusLiv/MindSync)**<br>Calm, private workplace wellness app · daily employee check-ins | ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=58a6ff) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=58a6ff) |
-| 📅 **[StudyFlow](https://github.com/CrudusLiv/StudyFlow)**<br>AI-powered study scheduler | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff) ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=58a6ff) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=58a6ff) |
-| ✅ **[TaskZen](https://github.com/CrudusLiv/TaskZen)**<br>Task management web app | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff) |
+| 📅 **[StudyFlow](https://github.com/CrudusLiv/StudyFlow)**<br>AI study planner · dynamic schedule redistribution | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff) ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=58a6ff) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=58a6ff) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=58a6ff) |
+| ✅ **[TaskZen](https://github.com/CrudusLiv/TaskZen)**<br>ADHD-friendly productivity PWA · energy tracking & guided routines | ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=58a6ff) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff) ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=58a6ff) ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=58a6ff) |
 | ♻️ **[WasteWise](https://github.com/CrudusLiv/WasteWise)**<br>Community waste tracking system | ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=58a6ff) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=58a6ff) |
 | 💪 **[SmartFit](https://github.com/CrudusLiv/SmartFit)**<br>Android fitness app | ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=58a6ff) |
 | 🎬 **[SimpleMovieDB](https://github.com/CrudusLiv/SimpleMovieDB)**<br>Movie review and rating app | ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=58a6ff) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=58a6ff) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff) |
@@ -64,8 +64,12 @@
 <br/>
 `May 2025 – Jul 2025`
 
-- Enhanced website features to improve user experience<br/>
-- Used Git for version-controlled collaborative development
+- Built a full-width layout toggle with local storage persistence<br/>
+- Rebuilt the onboarding flow to match the current app version<br/>
+- Implemented TIN validation for regulatory compliance<br/>
+- Added line-item classification dropdown across accounting modules<br/>
+- Set up an AI chatbot on Freshdesk<br/>
+- Shipped features through a Git/Jira PR workflow over a 12-week cycle
 
 <img src="assets/divider.svg" alt="section divider" />
 
@@ -131,9 +135,10 @@
 
 <img src="assets/spacer.svg" width="100%" height="20" alt="" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=e6edf3)](https://livnesportfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/CrudusLiv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=e6edf3)](https://www.linkedin.com/in/livnes/)
-[![Gmail](https://img.shields.io/badge/Gmail-58A6FF?style=for-the-badge&logo=gmail&logoColor=e6edf3)](mailto:livnes.saranyaa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-58A6FF?style=for-the-badge&logo=gmail&logoColor=e6edf3)](mailto:livnes.ganes@gmail.com)
 ![Visitor Count](https://komarev.com/ghpvc/?username=CrudusLiv&color=58A6FF&style=for-the-badge)
 
 <img src="assets/spacer.svg" width="100%" height="12" alt="" />
